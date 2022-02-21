@@ -10,5 +10,5 @@ public interface ReservService {
    public List select(int client_id);
    public void delete(int reserv_id);
    public void update(String seat);
-   
+   public void test();
 }
