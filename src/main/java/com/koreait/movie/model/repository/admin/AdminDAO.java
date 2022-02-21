@@ -11,5 +11,5 @@ public interface AdminDAO {
 	public void delete(int admin_id);//아이디, 패스워드가 모두 일치할 때 탈퇴시켜야 하기 때문에 Admin
 	public List selectAll();
 	public Admin select(int admin_id);
-	public void test5();
+	public void test6();
 }
